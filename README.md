@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">Latest project:</h3>
-<a src="https://kigokido-front.onrender.com">KidoKigo</a>
+<a href="https://kigokido-front.onrender.com">KidoKigo</a>
 
 <h3 align="left">Languages and Tools:</h3>
 
