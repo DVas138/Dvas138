@@ -16,6 +16,9 @@
 <a href="https://www.leetcode.com/d_vas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="d_vas" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Latest project:</h3>
+<a src="https://kigokido-front.onrender.com">KidoKigo</a>
+
 <h3 align="left">Languages and Tools:</h3>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br/>
@@ -25,5 +28,7 @@
 [![](https://visitcount.itsvg.in/api?id=DVas138&icon=3&color=3)](https://visitcount.itsvg.in)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dvas138&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvas138&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 
